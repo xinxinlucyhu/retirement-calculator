@@ -1,0 +1,38 @@
+.container-fluid{
+
+    border-color: azure;
+    border-style: double;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    background-color: rgb(209, 225, 230);
+    padding-top: 10px;
+ 
+    font-size: medium;
+    font-weight: bold;
+   
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.navbar-brand {
+color:white;
+}
+.navbar{
+    background-color: #003366;  
+}
+.btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img{
+  
+    height: 550px;
+}
